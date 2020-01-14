@@ -1,0 +1,9 @@
+h1 {
+	text-align: center;
+}
+
+.button {
+	border: solid green;
+	border-color: #00ffff;
+	height: 10rem;
+}
